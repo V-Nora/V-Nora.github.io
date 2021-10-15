@@ -1,2 +1,5 @@
 # V-Nora.github.io
-Demo page
+
+## Az első hét projektfeladata
+
+Ez a demo oldala
